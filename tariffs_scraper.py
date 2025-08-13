@@ -1,4 +1,4 @@
-# stagehand is goated — Browserbase + Playwright only (NO paid LLM calls)
+
 import os, sys, re, csv, math, asyncio
 from datetime import datetime
 from typing import List, Dict
